@@ -1,14 +1,14 @@
-442a3cf851dd3cb41d8e98155edf3a48 *DESCRIPTION
+708ce97b6ac817c73871b09f03943852 *DESCRIPTION
 76b4a00757e9c45d1fd50c38275ae28b *NAMESPACE
 6a65578151ca49f46b0ce5904a1b29a5 *R/marker_based.R
-3696dc36db7b45c5cd3ca72a15e85bf2 *R/reference_based.R
+e4a3f8080cee99973fbd54ac92782f01 *R/reference_based.R
 739669b9253a2b90d3bb66fd426b1f47 *R/simulation.R
 5f0311067a23e12aab1866985940ddb4 *R/utils.R
 9ecd7ce4ddf7e311f0aa25c6cc7254be *README.md
-d5813c6fe724b9769f8f8399cd9cbefd *build/vignette.rds
-e0600dae5b0ed1d37a7af85c3c16200f *inst/doc/bisque.R
+3edc4dff9e0d4b0e41495be4b4edc00f *build/vignette.rds
+ccfdb31157ef6879a784e20c9c36ac2c *inst/doc/bisque.R
 6132077874f88220fab3239ad887f4b3 *inst/doc/bisque.Rmd
-60518b9fd3d3173c356876085e88237a *inst/doc/bisque.html
+25da545995dd4238811910d561054364 *inst/doc/bisque.html
 6bfd6b0270951fffbbbab920b7215805 *man/CalculateSCCellProportions.Rd
 8691e5d36baff480e7fddac026340f0e *man/CorTri.Rd
 aab0b0dbb8ae8016f4c797ef4e35501b *man/CountsToCPM.Rd
@@ -32,6 +32,6 @@ dd7df06785fefba9abde24ae1d428357 *man/SimulateData.Rd
 f49044e8a1ac2730336ff16d1b56ccd5 *tests/testthat.R
 24f46e17de1db3d49d76646a69506583 *tests/testthat/test_marker_based.R
 234e70338c364cbbbe894c65a85e8e00 *tests/testthat/test_ref_based.R
-b6cbd0e41700173a59392a3e584b5736 *tests/testthat/test_sim.R
+1591182783a675596e5d0cd78192bbb7 *tests/testthat/test_sim.R
 57cd18ae879deb437f21828d7537bc9c *tests/testthat/test_utils.R
 6132077874f88220fab3239ad887f4b3 *vignettes/bisque.Rmd
