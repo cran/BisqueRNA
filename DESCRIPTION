@@ -1,6 +1,6 @@
 Package: BisqueRNA
 Title: Decomposition of Bulk Expression with Single-Cell Sequencing
-Version: 1.0.2
+Version: 1.0.3
 Authors@R: c(
   person(given = 'Brandon', family = 'Jew', email = 'brandon.jew@ucla.edu', role = c('aut', 'cre')),
   person(given = 'Marcus', family = 'Alvarez', role = 'aut')
@@ -17,15 +17,15 @@ License: GPL-3
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
-Imports: Biobase, lsei, methods, stats
+Imports: Biobase, limSolve, methods, stats
 Suggests: Seurat, plyr, knitr, rmarkdown, testthat
 URL: https://www.biorxiv.org/content/10.1101/669911v1
 BugReports: https://github.com/cozygene/bisque/issues
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2020-03-19 04:52:21 UTC; bjew
+Packaged: 2020-05-04 04:28:18 UTC; bjew
 Author: Brandon Jew [aut, cre],
   Marcus Alvarez [aut]
 Maintainer: Brandon Jew <brandon.jew@ucla.edu>
 Repository: CRAN
-Date/Publication: 2020-03-19 05:20:11 UTC
+Date/Publication: 2020-05-04 05:20:36 UTC

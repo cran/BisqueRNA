@@ -1,11 +1,11 @@
-708ce97b6ac817c73871b09f03943852 *DESCRIPTION
+55ac5d0884c941f36d2867d21654a465 *DESCRIPTION
 76b4a00757e9c45d1fd50c38275ae28b *NAMESPACE
 6a65578151ca49f46b0ce5904a1b29a5 *R/marker_based.R
-e4a3f8080cee99973fbd54ac92782f01 *R/reference_based.R
+aefbfed970ae7e38d30ca655b1df37f0 *R/reference_based.R
 739669b9253a2b90d3bb66fd426b1f47 *R/simulation.R
 5f0311067a23e12aab1866985940ddb4 *R/utils.R
 9ecd7ce4ddf7e311f0aa25c6cc7254be *README.md
-3edc4dff9e0d4b0e41495be4b4edc00f *build/vignette.rds
+d5813c6fe724b9769f8f8399cd9cbefd *build/vignette.rds
 ccfdb31157ef6879a784e20c9c36ac2c *inst/doc/bisque.R
 6132077874f88220fab3239ad887f4b3 *inst/doc/bisque.Rmd
 25da545995dd4238811910d561054364 *inst/doc/bisque.html
