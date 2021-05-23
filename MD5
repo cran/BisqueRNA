@@ -1,7 +1,7 @@
-9c46ef0cf239819a82495ae0e2af36dd *DESCRIPTION
+f0eb6265c22e085a7b5ded718fc0d712 *DESCRIPTION
 b09083d58edbb2af35162f54c2b48741 *NAMESPACE
 6a65578151ca49f46b0ce5904a1b29a5 *R/marker_based.R
-c93f0dc24a824502e52e8bdc9fc4bfbf *R/reference_based.R
+688cdbd76809bcb1b02f5da9ddf05206 *R/reference_based.R
 739669b9253a2b90d3bb66fd426b1f47 *R/simulation.R
 5f0311067a23e12aab1866985940ddb4 *R/utils.R
 9ecd7ce4ddf7e311f0aa25c6cc7254be *README.md
@@ -31,7 +31,7 @@ dd7df06785fefba9abde24ae1d428357 *man/SimulateData.Rd
 4a0419b95c9002fc5fd3e8f1c782197f *man/SupervisedTransformBulk.Rd
 f49044e8a1ac2730336ff16d1b56ccd5 *tests/testthat.R
 24f46e17de1db3d49d76646a69506583 *tests/testthat/test_marker_based.R
-234e70338c364cbbbe894c65a85e8e00 *tests/testthat/test_ref_based.R
+e51d07ffce6705eab3d5544a28305ab3 *tests/testthat/test_ref_based.R
 1591182783a675596e5d0cd78192bbb7 *tests/testthat/test_sim.R
-57cd18ae879deb437f21828d7537bc9c *tests/testthat/test_utils.R
+c08047687b46697f086b1edc412f361f *tests/testthat/test_utils.R
 6132077874f88220fab3239ad887f4b3 *vignettes/bisque.Rmd
